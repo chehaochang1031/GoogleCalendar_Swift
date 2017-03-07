@@ -9,5 +9,5 @@ I received 403 error: disallowed_useragent on my phone. It means that this app w
 
 In my project, I use Google SignIn framework instead of GTMOAuth2ViewControllerTouch to get user's authorizer. 
 
-Requirements
+Requirements: 
 swift 3.0
