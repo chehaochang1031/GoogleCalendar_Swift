@@ -14,7 +14,7 @@ import GoogleSignIn
 class CalendarVC: UIViewController {
     
     private let kKeychainItemName = "Google Calendar API"
-    private let kClientID = "1040790333361-n23ujnr39i08se6d6ps5595liqh4dj11.apps.googleusercontent.com"
+    private let kClientID = "YOUR_CLIENT_ID_HERE"
     private let scopes = [kGTLAuthScopeCalendarReadonly]
     let service = GTLServiceCalendar()
     let output = UITextView()
