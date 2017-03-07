@@ -1,5 +1,5 @@
 # GoogleCalendar_Swift
-It's a way to use Google Calendar API by using Swift 3.0 in iOS 10.2.
+It's a way to use Google Calendar API by using Swift 3.0 in iOS 10.0+.
 
 Google is changing its Oauth policies, with this it is intended that no native web views initiate Oauth flows. There are some situations showed up when I try to get the authorizer. 
 
